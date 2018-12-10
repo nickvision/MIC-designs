@@ -1,0 +1,16 @@
+.center-div
+{
+     margin: 0 auto;
+     width: 860px;
+}
+
+
+td i {
+        text-align:center;
+    }
+
+}
+[class^="icon-"], [class*=" icon-"] {
+    display: inline-block;
+    width: 100%;
+}
